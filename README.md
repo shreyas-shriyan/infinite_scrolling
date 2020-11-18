@@ -1,1 +1,1 @@
-# infinite_scrolling
+# infinite scrolling in vanilla javascript with throttling
